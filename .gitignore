@@ -6,3 +6,8 @@ __pycache__/
 
 dataset
 codebook
+tests
+
+*.png
+*.csv
+*.pdf
